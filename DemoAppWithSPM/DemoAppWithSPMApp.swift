@@ -14,6 +14,7 @@ import Kingfisher
 
 @main
 struct DemoAppWithSPMApp: App {
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
